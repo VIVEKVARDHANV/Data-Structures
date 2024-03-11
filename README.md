@@ -1,10 +1,10 @@
 # Data-Structures
 
 AIM : 
-           The aim of our project is to create a Bus Reservation System for employees working at bus depots to book and reserve tickets for customers.
+           The aim of project is to create a Bus Reservation System for employees working at bus depots to book and reserve tickets for customers.
 
 OBJECTIVES :
-●	       To make us more comfortable in using the data structures concept to create different applications.
+●	       To make more comfortable in using the data structures concept to create different applications.
 ●	        Data Structures used:Class,Array
 ●	        Class is used to hold the main functions and variables used throughout the code.
 ●	         Array is used to store and access the data ,the array is linked with the class.
